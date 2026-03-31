@@ -3,7 +3,7 @@
 ##  Overview
 This project analyzes student performance using SQL queries and PL/SQL. It calculates toppers, slow learners, and department-wise statistics.
 
----
+
 
 ##  Features
 - Find highest marks
@@ -11,13 +11,13 @@ This project analyzes student performance using SQL queries and PL/SQL. It calcu
 - Count slow learners (marks < 50)
 - Department-wise analysis
 
----
+
 
 ##  Technologies Used
 - SQL
 - PL/SQL (Oracle)
 
----
+
 
 ##  Queries Included
 - Aggregate functions (COUNT, MAX)
